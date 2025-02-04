@@ -15,4 +15,4 @@ This project is an interactive web-based application built using **p5.js**, a Ja
 
 ## Dependencies
 1. **Clone the Repository**:
-2. <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+2. <script> src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
